@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 
-const API = "http://localhost:5000";
+const API = "https://placement-management-backend-7cqx.onrender.com";
 
 /* =========================================================
    HELPERS
